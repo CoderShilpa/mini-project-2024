@@ -1,0 +1,14 @@
+upadhyayshilpa57
+4Q6VExxFeGs8fp2a
+mongodb+srv://upadhyayshilpa57:4Q6VExxFeGs8fp2a@cluster4.ggjni.mongodb.net/?retryWrites=true&w=majority&appName=cluster4
+
+  TWILIO_ACCOUNT=ACb726ddff4d8aa9382f3e8cc90fabbc2c
+
+  TWILIO_AUTH_TOKEN= b686bd2a8d04facdb681c0fbd2d2b941
+
+  FROM_NUMBER=+19787092111
+
+  TO_NUMBER=+18777804236
+
+N  FROM_NUMBER=+17753736816
+

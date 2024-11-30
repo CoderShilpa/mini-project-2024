@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electricity Bill SMS</title>
+  <link rel="stylesheet" href="electricity.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Send Electricity Bill Notification</h1>
+    <form id="sms-form">
+      <label for="phone">Phone Number:</label>
+      <input type="text" id="phone" placeholder="Enter phone number" required>
+      
+      <label for="message">Message:</label>
+      <textarea id="message" placeholder="Enter message" required></textarea>
+      
+      <button type="submit">Send SMS</button>
+    </form>
+    <div id="response"></div>
+  </div>
+  <script src="meter.js"></script>
+</body>
+</html>
